@@ -5,9 +5,9 @@ arr[1]="bot: 🥳 Yeayyy!"
 arr[2]="bot: 😬 Working from github."
 arr[3]="bot: 👨‍💻 Work, work, work!"
 arr[4]="bot: 😪 Hufft..."
-arr[5]="bot: 😎 I'm working for my master!"
+arr[5]="bot: 😎 I'm working for toxiclord!"
 arr[6]="bot: 🙄 Running task, again."
-arr[7]="bot: 👻 Thanks master."
+arr[7]="bot: 😴 Turu."
 
 rand=$[$RANDOM % ${#arr[@]}]
 d=`date '+%Y-%m-%dT%H:%M:%SZ'`
